@@ -393,7 +393,7 @@ loop berhenti program selesai
 
 Flowchart :
 
-## 🧩 Flowchart Program Nilai Mahasiswa (Full Version)
+# Flowchart Program Nilai Mahasiswa
 
 ```
 +---------------------+
